@@ -1,0 +1,66 @@
+.image {
+    height: 182px;
+    width: 5%;
+  }
+  
+  .image .TCH-horizondal-logo {
+    height: 82px;
+    left: 0;
+    position: fixed;
+    top: 5px;
+    width: 8%;
+  }
+  .label {
+    height: 22px;
+    width: 133px;
+  }
+  
+  .label .text-wrapper {
+    color: #000000;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    right: 25%;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    text-align: center;
+    top: 4%;
+  }
+  .labelc {
+    height: 22px;
+    width: 133px;
+  }
+  
+  .labelc .text-wrapperc {
+    color: #000000;
+    font-family: "Barlow-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    right: 15%;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    text-align: center;
+    top: 4%;
+  }
+  .box {
+    height: 100px;
+    width: 100%;
+    position: fixed;
+  z-index: 1000;
+  }
+
+  .TCH-horizondal-logo{
+    width: 60%;
+    height: 60px;
+  }
+  .text-warperheader{
+    color: #7c7c7c;
+font-family: "Barlow-Regular", Helvetica;
+font-size: 18px;
+font-weight: 300;
+display: inline;
+  }

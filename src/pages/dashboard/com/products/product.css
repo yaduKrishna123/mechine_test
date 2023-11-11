@@ -1,0 +1,23 @@
+.products_container{
+    margin-top: 8%;
+    
+}
+.products_heading{
+    color: #000000;
+font-family: "Barlow-Bold", Helvetica;
+font-size: 30px;
+font-weight: 700;
+letter-spacing: 0;
+margin-top: 2%;
+
+}
+.text-warper{
+    color: #8b8b8b;
+font-family: "Barlow-Medium", Helvetica;
+font-size: 15px;
+font-weight: 500;
+
+letter-spacing: 0;
+line-height: normal;
+
+}

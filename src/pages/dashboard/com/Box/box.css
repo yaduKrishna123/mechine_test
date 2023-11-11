@@ -1,0 +1,67 @@
+.banner {
+  height: auto;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.bg-banner-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.bg-banner {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.banner-rectangle {
+  width: 100%;
+  height: 600px;
+  margin-top: -20px;
+}
+
+.center-text {
+  text-align: center;
+  margin-top: 15%;
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(33, 31, 31);
+}
+
+.center-p {
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+
+.formz {
+  background-color: aliceblue;
+  border-radius: 2%;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto; /* Center the formz horizontally */
+}
+
+.center-button {
+  margin: 20px auto; /* Center the button horizontally */
+  display: block; /* Make the button a block-level element */
+  border-radius: 10%;
+  background-color: rgb(59, 49, 201);
+   width: 30%;
+
+
+}
+.banner-contents{
+  margin-top: 10%;
+}
+@media screen and (max-width: 768px) {
+  .banner-contents {
+    margin-top: 25%; /* Adjust the margin for smaller screens */
+  }
+}
